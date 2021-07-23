@@ -129,6 +129,10 @@
             <subtype>mp</subtype>
             <velocity>64</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>1.18333</tempo>
+            <text>Adagio</text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
